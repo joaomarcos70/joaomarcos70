@@ -1,4 +1,4 @@
-### Olá a todos, eu sou o João albuquerque👋
+### Olá a todos, sou o João albuquerque👋
 
 - 🔭 Atualmente trabalho como desenvolvedor full stack..
 - 🌱 Estou me desenvolvendo em Java mais precisamente Java Spring..
