@@ -1,7 +1,7 @@
 ### Olá a todos, sou o João albuquerque👋
 
 - 🔭 Atualmente trabalho como desenvolvedor full stack..
-- 🌱 Estou me desenvolvendo em Java mais precisamente Java Spring..
+- 🌱 Atualmente também estou estudando Java e MySql..
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaoalbuquerq/">
