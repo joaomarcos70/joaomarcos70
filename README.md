@@ -1,6 +1,6 @@
 ### Olá a todos, sou o João albuquerque👋
 
-- 🔭 Atualmente trabalho como desenvolvedor full stack..
+- 🔭 Atualmente trabalho como engenheiro de software front end..
 - 🌱 Atualmente também estou estudando Java e MySql..
 
 <div align="center">
