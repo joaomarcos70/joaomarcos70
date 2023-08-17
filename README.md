@@ -1,8 +1,7 @@
 ### Olá a todos, sou o João albuquerque👋
 
 - 🔭 Atualmente trabalho como engenheiro de software front end..
-- 🌱 Atualmente também estou estudando Java e MySql..
-
+- 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaoalbuquerq/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcos70&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
